@@ -1,5 +1,5 @@
 # Automatic Operation and Maintenance for Linux
-## Linux 系統自動化運維 — 課堂學習筆記 :notebook_with_decorative_cover:
+## Linux 系統自動化運維 — 課堂學習筆記
 
 #### 教師：[柯志亨 教授](http://csie.nqu.edu.tw/smallko/index.html)
 
