@@ -22,7 +22,7 @@
 |  03  |    03/10     |       DNS Server       |           [Week03-0310.md]()           |
 |  04  |    03/17     | 正向解析、反向解析、 DNS主輔同步 |           [Week04-0317.md]()           |
 |  05  |    03/24     |        智能 DNS、Docker       |           [Week05-0324.md]()           |
-|  06  | 03/30、03/31 |   Docker、Dockerfile、rsync         | [Week06-0330.md]()、[Week06-0331.md]() |
+|  06  | 03/30、03/31 |   Docker、Dockerfile、rsync         | [Week06-0330、0331.md]() |
 |  07  |    04/07     |    Day off (停課一週)     |           [Week07-0407.md]()           |
 |  08  |    04/14     |      rsync inotify、inotify-tools    |           [Week08-0414.md]()           |
 |  09  |    04/21     |        ssh tunnel   |           [Week09-0421.md]()           |
